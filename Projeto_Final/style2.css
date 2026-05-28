@@ -1,0 +1,28 @@
+.texto {
+    font-size: 20px;
+    
+}
+
+.lista {
+    font-size: 19px;
+}
+
+body {
+    background: #EEF2E3;
+}
+
+h2 {
+    color: #2F4F46;
+
+    margin-bottom: 20px;
+
+    font-size: 36px;
+
+    border-left: 8px solid #04AA6D;
+
+    padding-left: 15px;
+}
+
+.direitos {
+    text-align: center;
+}
